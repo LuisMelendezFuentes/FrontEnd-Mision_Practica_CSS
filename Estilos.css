@@ -1,0 +1,87 @@
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    color:darkgray;
+    font-family: 'Fredoka', sans-serif;
+  }
+
+  .button{
+   
+    width: 100px;
+    height: 30px;
+    color:rgb(255, 249, 249);
+    font-family: 'Fredoka', sans-serif;
+    background-color: blue;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+
+  .logo{
+      height: 0px;
+      font-family: 'Fredoka', sans-serif;
+      color:blue;
+      font-size:large; 
+  }
+
+  .div a{
+    text-decoration: none;
+    font-size: small;    
+  }
+
+  
+.FightVirus{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-family: 'Fredoka', sans-serif;
+    color:rgb(72, 72, 77);
+    font-size:large; 
+}
+
+.FightVirus h1{
+    font-family: 'Fredoka', sans-serif;
+    color:rgb(18, 18, 209);
+}
+
+.details{
+    font-size: 10px;
+    display: flex;
+}
+
+.table{
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+    color:rgb(72, 72, 77);
+  }
+
+  .info{
+    font-family: 'Fredoka', sans-serif;
+    color: navy;
+  }
+
+  .FightVirus2{
+
+    font-family: 'Fredoka', sans-serif;
+    color:rgb(72, 72, 77);
+  }
+
+  .info2 th{
+    font-family: 'Fredoka', sans-serif;
+    color: navy;
+    font-size: large;
+  }
+
+  .FightVirus3{
+
+    font-family: 'Fredoka', sans-serif;
+    color:rgb(72, 72, 77);
+  }
+
+  .preparacion{
+display: flex;
+}
+
+.tercera_seccion{
+ display: flex; 
+}
